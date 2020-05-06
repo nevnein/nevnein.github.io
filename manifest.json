@@ -5,8 +5,8 @@
   "background_color": "#ffffff",
   "display": "minimal-ui",
   "orientation": "portrait",
-  "scope": "https://nevnein.github.io/nextjs-blog/",
-  "start_url": "https://nevnein.github.io/nextjs-blog/",
+  "scope": "https://nevnein.github.io/",
+  "start_url": "https://nevnein.github.io/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
